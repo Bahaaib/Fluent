@@ -1,5 +1,5 @@
 <p align="center">
-<img  src="https://github.com/Bahaaib/Fluent/blob/main/art/fluent_logo.svg" height="200">
+<img  src="https://github.com/Bahaaib/Fluent/blob/main/art/fluent_logo.svg" height="170">
 </p>
 
 <p align="center">
