@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-<a href="https://img.shields.io/badge/License-MIT-green"><img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License"></a>
+<a href="https://img.shields.io/badge/License-MIT-green"><img src="https://img.shields.io/badge/License-MIT-blueviolet" alt="MIT License"></a>
+<a href="https://pub.dev/packages/auto_route/versions/1.0.2"><img src="https://img.shields.io/badge/version-1.0.0-green"></a>
 </p>
 
 ### Introduction
