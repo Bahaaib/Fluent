@@ -19,6 +19,8 @@ class Translatable {
   final String chinese;
   final String hindi;
   final String korean;
+  final String indonesian;
+  final String urdu;
   final String fieldName;
 
   const Translatable(
@@ -42,6 +44,8 @@ class Translatable {
       this.chinese,
       this.hindi,
       this.korean,
+      this.indonesian,
+      this.urdu,
       this.fieldName})
       : assert(fieldName != null, 'Translation field name must be provided');
 }

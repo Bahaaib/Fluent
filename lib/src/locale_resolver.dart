@@ -19,12 +19,16 @@ class Locale {
     'ja': 'japanese',
     'zh': 'chinese',
     'hi': 'hindi',
-    'ko': 'korean'
+    'ko': 'korean',
+    'id': 'indonesian',
+    'ur': 'urdu'
   };
 
   static void evaluate({String locale, List<String> inputLocales}) {
     if (!_supportedLocales.keys.contains(locale)) {
-      throw '\u001b[31m' + 'Unsupported Fallback Locale ===> $locale' + '\u001b[0m';
+      throw '\u001b[31m' +
+          'Unsupported Fallback Locale ===> $locale' +
+          '\u001b[0m';
     }
 
     if (!inputLocales.contains(locale)) {

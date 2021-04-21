@@ -1,4 +1,4 @@
-name: fluent
+name: fluent_translator
 description: It’s a Flutter package that helps you handling your project translations via code generation techniques.
 version: 0.0.1
 repository: https://github.com/Bahaaib/fluent

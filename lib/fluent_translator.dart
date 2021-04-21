@@ -1,4 +1,4 @@
-import 'package:fluent/fluent_dependency.dart';
+import 'package:fluent_translator/fluent_dependency.dart';
 
 class Fluent {
   final List<Translatable> translations;
