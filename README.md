@@ -1,4 +1,8 @@
 <p align="center">
+<img  src="https://github.com/Bahaaib/Fluent/blob/main/art/fluent_logo.svg" height="200">
+</p>
+
+<p align="center">
 <a href="https://img.shields.io/badge/License-MIT-green"><img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License"></a>
 </p>
 
