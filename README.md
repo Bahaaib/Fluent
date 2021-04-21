@@ -62,6 +62,8 @@ class Translations {}
 ```
 **Note**: In case of providing both CSV file & a list of `Translatable` objects. `Fluent` is designed to overwrite the content of the `Translatable`s with the CSV file content. It will not add content from both resources.
 
+**Note**: Make sure that you're using a valid ISO-639-1 locale codes in the `supportedLanguages` list. You can find a [full list here](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes#ID)
+
 Lastly, You need to launch `build_runner` to start translations code generation using command `flutter pub run build_runner build` for a single time or using command `flutter pub run build_runner watch` to keep tracking the changes in the file system and automatically update the translations.
 
 
