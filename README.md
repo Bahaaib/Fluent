@@ -17,10 +17,10 @@ Fluent came to get rid of the boilerplate code that the developers used to write
 
 ```yaml
 dependencies:
-  fluent: [latest-version]
+  fluent_translator: [latest-version]
 
 dev_dependencies:
-  fluent_generator: [latest-version]
+  fluent_translator_generator: [latest-version]
   build_runner:
 ```
 

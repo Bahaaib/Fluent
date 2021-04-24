@@ -17,3 +17,7 @@
 ## [0.1.0]
 
 * updated readme file to match generator
+
+## [0.1.0]
+
+* fixed example code
