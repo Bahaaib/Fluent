@@ -24,7 +24,10 @@ class Locale {
     'ur': 'urdu'
   };
 
-  static void evaluate({String locale, List<String> inputLocales}) {
+  static void evaluate({
+    required String locale,
+    required List<String> inputLocales,
+  }) {
     if (!_supportedLocales.keys.contains(locale)) {
       throw '\u001b[31m' +
           'Unsupported Fallback Locale ===> $locale' +
@@ -46,6 +49,6 @@ class Locale {
   }
 
   static String resolveLocale(String locale) {
-    return _supportedLocales[locale];
+    return _supportedLocales[locale]!;
   }
 }

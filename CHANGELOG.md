@@ -21,3 +21,7 @@
 ## [0.1.0]
 
 * fixed example code
+
+## [0.2.0]
+
+* Added Flutter 3 support
